@@ -31,7 +31,4 @@ A simple **console-based Car Racing Game** written in C.
    - Press `R` to restart
    - Press `ESC` to quit
 
----
-
-## 📂 Folder Structure
 
